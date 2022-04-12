@@ -10,6 +10,7 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/
 
 * Group Name: YOUR GROUP NAME
 * Group Members: YOUR NAMES
+* Student ID Numbers: YOUR STUDENT ID/NUMBERS
 * GitHub Handles: YOUR GITHUB HANDLES
 * Group Leader: LEADER NAME 
 * Lab Section Leader: Lachlan / Gijs (choose one)
