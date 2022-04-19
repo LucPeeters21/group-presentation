@@ -4,7 +4,7 @@
 [![lifecycle](https://img.shields.io/badge/version-2022-red.svg)]()
 
 **The group assignment is grade relevant.**
-Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/assets/syllabus.pdf) for more details.
+Check the [course syllabus](https://tisem-digital-marketing.github.io/2022-smwa/assets/syllabus.pdf) for more details.
 
 ## Meta-Information
 
