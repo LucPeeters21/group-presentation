@@ -8,7 +8,7 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2022-smwa/
 
 ## Meta-Information
 
-* Group Name: YOUR GROUP NAME
+* Group Name: Flamingos
 * Group Members: YOUR NAMES
 * Student ID Numbers: YOUR STUDENT ID/NUMBERS
 * GitHub Handles: YOUR GITHUB HANDLES
