@@ -9,16 +9,15 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2022-smwa/
 ## Meta-Information
 
 * Group Name: Flamingos
-* Group Members: YOUR NAMES
+* Group Members: [Romée Hoeks](https://github.com/romeehoeks), [Max van der Meulen](https://github.com/FikkieUvT), [Doga Bayraktar](https://github.com/dogabayraktar), [Luc Peeters](https://github.com/LucPeeters21)
 * Student ID Numbers: YOUR STUDENT ID/NUMBERS
 * GitHub Handles: YOUR GITHUB HANDLES
 * Group Leader: LEADER NAME 
-* Lab Section Leader: Lachlan / Gijs (choose one)
-* Lab Start time: 8:45 am / 10:45 am (choose one)
+* Lab Section Leader: Lachlan 
+* Lab Start time: 10:45 am 
 
 ## Presentation Topic
-
-Please copy and paste the presentation topic you have been assigned to here.
+Bol.com’s Seller Experience team is looking to expand the number of third party vendors who sell on the site. One problem they are facing is that new vendors have less, and noisier reviews by consumers about their reputation. Propose a new strategy that they could adopt to help new seller’s reputations on Bol.com and an analytical framework that you could use to test whether this strategy is successful.
 
 ## Instructions for Students
 
