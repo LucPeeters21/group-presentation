@@ -9,7 +9,7 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2022-smwa/
 ## Meta-Information
 
 * Group Name: Flamingos
-* Group Members/Handles/Student Numbers: [Romée Hoeks](https://github.com/romeehoeks) (2072716), [Max van der Meulen](https://github.com/FikkieUvT), [Doga Bayraktar](https://github.com/dogabayraktar), [Luc Peeters](https://github.com/LucPeeters21) (2075421)
+* Group Members/Handles/Student Numbers: [Romée Hoeks](https://github.com/romeehoeks) (2072716), [Max van der Meulen](https://github.com/FikkieUvT), [Doga Bayraktar](https://github.com/dogabayraktar) (2077321), [Luc Peeters](https://github.com/LucPeeters21) (2075421)
 * Group Leader: LEADER NAME 
 * Lab Section Leader: Lachlan 
 * Lab Start time: 10:45 am 
